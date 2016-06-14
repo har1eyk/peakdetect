@@ -9,7 +9,7 @@ This is output. Maxes and mins were added to the Pandas dataframe and plotted.
 ###How Can I Use It?
 1.  Order all x-axis values. 
 2.  Convert or create data into Numpy array.
-3.  Call peakdetect.py like this:
+3.  Call peakdetect.py like this.
 
   ```max_mins = peakdetect(peaks, lookahead=100)```
 ###What is the output?
