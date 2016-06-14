@@ -14,7 +14,7 @@ This is output. Maxes and mins were added to the Pandas dataframe and plotted.
 ```max_mins = peakdetect(peaks, lookahead=100)```
 ###What is the output?
 Peakdetect returns lists of peaks' position and height. See peakdetect script for more details.
-    max_x, max_y = zip(*max_mins[0])
+    ```max_x, max_y = zip(*max_mins[0])
     min_x, min_y = zip(*max_mins[1])
     print ("max pos is:", max_x)
     print ("max value is:", max_y)
