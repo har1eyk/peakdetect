@@ -1,10 +1,10 @@
 # peakdetect
 ###What is PeakDetect?
-peakdetect.py is a Python script used to detects peaks in timeseries or linear data. 
+peakdetect.py is a Python script used to detects peaks in timeseries or linear data.  
 This is input (plotted with Pandas and Matplotlib).
-![TimeSeries Peaks Not Identified](har1eyk.github.com/peakdetect/images/timeseries.graph.png)
-This is output. Maxes and mins were added to the Pandas dataframe and plotted.
-![TimeSeries Peaks Identified](har1eyk.github.com/peakdetect/timeseries.with.maxes.and.mins.png)
+![TimeSeries Peaks Not Identified](https://har1eyk.github.com/peakdetect/images/timeseries.graph.png)  
+This is output. Maxes and mins were added to the Pandas dataframe and plotted.  
+![TimeSeries Peaks Identified](https://har1eyk.github.com/peakdetect/timeseries.with.maxes.and.mins.png)
 ###How Can I Use It?
 1.  Order all x-axis values. 
 2.  Convert or create data into Numpy array.
